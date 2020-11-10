@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: jimcinfoendpoint
+endpoints:
+  info:
+    enabled: true
+    sensitive: false
